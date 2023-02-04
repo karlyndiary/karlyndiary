@@ -8,7 +8,7 @@
 - **Python:** 
   - [IBM HR Analytics Employee Attrition Case Study](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone) 
   - [YouTube API](https://github.com/karlyndiary/YouTube-API)
-  - [Netflix Data Analysis](https://github.com/karlyndiary/Netflix-Data-Analysis)
+  - [IMDb Data Analysis](https://github.com/karlyndiary/IMDb-Data-Analysis)
 
 ### 📫 Kaggle and Tableau
 - [Kaggle](https://www.kaggle.com/karenjudelyn)
