@@ -6,7 +6,7 @@
 - **Python:** 
   - [IMDb Data Analysis](https://github.com/karlyndiary/IMDb-Data-Analysis)
   - [IBM HR Analytics Employee Attrition Capstone](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone)
-- **SQL**
+- **SQL & Excel**
   - [Pizza Data Analysis](https://github.com/karlyndiary/Pizza-SQL-Analysis)
 
 ### 📫 Kaggle and Tableau
