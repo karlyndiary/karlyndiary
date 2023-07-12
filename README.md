@@ -8,6 +8,7 @@
   - [IBM HR Analytics Employee Attrition Capstone](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone)
 - **SQL & Excel**
   - [Pizza Data Analysis](https://github.com/karlyndiary/Pizza-SQL-Analysis)
+  - [Spotify Excel Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
 
 ### 📫 Kaggle and Tableau
 - [Kaggle](https://www.kaggle.com/karenjudelyn)
