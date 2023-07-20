@@ -7,7 +7,7 @@
   - [IMDb Data Analysis](https://github.com/karlyndiary/IMDb-Data-Analysis)
   - [IBM HR Analytics Employee Attrition Capstone](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone)
 - **SQL & Excel**
-  - [Pizza Data Analysis](https://github.com/karlyndiary/Pizza-SQL-Analysis)
+  - [Pizza & Excel Data Analysis]((https://github.com/karlyndiary/Pizza-SQL-Excel-Dashboard-Analysis))
   - [Spotify Excel Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
 
 ### 📫 Kaggle and Tableau
