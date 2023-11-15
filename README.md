@@ -10,6 +10,8 @@
   - [Maven's Pizza Sales Insight Data Analysis](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
 - **Excel**
   - [Spotify Excel Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
+- **Tableau**
+  - [Airbnb Dashboard](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
 
 ### 📫 Kaggle and Tableau
 - [Kaggle](https://www.kaggle.com/karenjudelyn)
