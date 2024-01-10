@@ -1,15 +1,14 @@
 # 👋 Hi there! I'm Karen
 
-### 🚀 Top Data Projects
-- **Python:** 
-  - [IMDb Data Analysis](https://github.com/karlyndiary/IMDb-Data-Analysis)
-  - [IBM HR Analytics Employee Attrition Capstone](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone)
-- **SQL**
-  - [Maven's Pizza Sales Insight Data Analysis](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
-- **Excel**
-  - [Spotify Excel Dashboard](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
-- **Tableau**
-  - [Airbnb Dashboard](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
+## 🚀 Top Data Projects
+[![IMDb Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=IMDb-Data-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/IMDb-Data-Analysis)
+[![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
+[![Spotify Excel Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Spotify-Excel-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
+[![Airbnb Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Airbnb-Tableau-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
+
+<p align="left">
+  <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,4 +27,3 @@
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-judelyn-fernandes/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/karenjudelyn)
-
