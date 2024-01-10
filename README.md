@@ -1,8 +1,6 @@
-# About
+# 👋 Hi there! I'm Karen
 
-### 📊 Data Projects 
-- **R:** 
-  - [Bellabeat Data Analysis Case Study](https://github.com/karlyndiary/Bellabeat_Data_Analytics_Capstone) 
+### 🚀 Top Data Projects
 - **Python:** 
   - [IMDb Data Analysis](https://github.com/karlyndiary/IMDb-Data-Analysis)
   - [IBM HR Analytics Employee Attrition Capstone](https://github.com/karlyndiary/IBM-HR-Analytics-Employee-Attrition-Capstone)
@@ -16,3 +14,20 @@
 ### 📫 Kaggle and Tableau
 - [Kaggle](https://www.kaggle.com/karenjudelyn)
 - [Tableau](https://public.tableau.com/app/profile/karen.judelyn.fernandes)
+
+### Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Karlyn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karlyndiary&show_icons=true&theme=dark#gh-dark-mode-only)
+
+### 🌐 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlyndiary&layout=compact)
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-judelyn-fernandes/)
