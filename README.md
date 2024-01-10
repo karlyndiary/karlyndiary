@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
-[![IMDb Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=IMDb-Data-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/IMDb-Data-Analysis)
-[![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
-[![Spotify Excel Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Spotify-Excel-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
-[![Airbnb Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Airbnb-Tableau-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
+[![IMDb Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=IMDb-Data-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/IMDb-Data-Analysis)
+[![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
+[![Spotify Excel Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Spotify-Excel-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
+[![Airbnb Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Airbnb-Tableau-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
 
 <p align="left">
   <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
