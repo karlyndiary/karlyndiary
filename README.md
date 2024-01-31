@@ -15,8 +15,9 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/karen.judelyn.fernandes/vizzes)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F05032?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 ## 📊 GitHub Stats
 ![Karlyn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karlyndiary&show_icons=true&theme=dark#gh-dark-mode-only)
