@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
-[![Bellabeat EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=BelleBeat-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/BellaBeat-EDA)
+[![Bellabeat EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=BellaBeat-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/BellaBeat-EDA)
 [![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
 [![Spotify Excel Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Spotify-Excel-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Spotify-Excel-Dashboard)
 [![Airbnb Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Airbnb-Tableau-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard)
