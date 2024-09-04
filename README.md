@@ -2,8 +2,8 @@
 
 ## 🚀 Top Data Projects
 [![Smartphone Price Analytics: Key Factors and Market Trends](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Smartphone-Price-Analytics&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Smartphone-Price-Analytics)
+[![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Adidas-Sales-Analysis)
 [![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
-[![Airbnb Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=New-York-AirBnB-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/New-York-AirBnB-Dashboard)
 [![BellaBeat EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=BellaBeat-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/BellaBeat-EDA)
 
 <p align="left">
