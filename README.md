@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
+[![Amazon API EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Amazon-API-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Amazon-API-EDA)
+[![Customer-Engagement-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Customer-Engagement-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Customer-Engagement-Analysis)
 [![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Adidas-Sales-Analysis)
 [![Smartphone Price Analytics: Key Factors and Market Trends](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Smartphone-Price-Analytics&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Smartphone-Price-Analytics)
-[![Amazon API EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Amazon-API-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Amazon-API-EDA)
-[![Maven's Pizza Sales Insight Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
 
 <p align="left">
   <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
