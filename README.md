@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Karen
 
 ## 🚀 Top Data Projects
-[![Amazon Sentiment Analysis & EDA](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Amazon-Sentiment-Analysis-EDA&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Amazon-Sentiment-Analysis-EDA)
 [![Global Electronics Retailer](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Global-Electronics-Retailer&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Global-Electronics-Retailer)
+[![Adidas Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Adidas-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Adidas-Sales-Analysis)
+[![Sales & Customer Performance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Sales-and-Customer-Performance-Dashboard&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Sales-and-Customer-Performance-Dashboard)
 [![Maven's Pizza Sales Insight](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Mavens-Pizza-Sales-Insight&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
-[![Coffee Shop Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=karlyndiary&repo=Coffee-Shop-Sales-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/karlyndiary/Coffee-Shop-Sales-Analysis)
 
 <p align="left">
   <a href="https://github.com/karlyndiary?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
